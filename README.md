@@ -1,6 +1,6 @@
 # settings
 
-A new Flutter project.
+This is just a demo Settings Screen practice project but I need to learn Github that's why I uploaded this.
 
 ## Getting Started
 
